@@ -8,7 +8,7 @@
 // @updateURL    https://raw.githubusercontent.com/ZmF1bi5ib3k/Carassius/master/Carassius.user.js
 // ==/UserScript==
 
-//Изменения в последний версии:
+//Изменения в последней версии:
 // - Исправлен баг с Firefox'ом
 
 var carass_color = "#FF6600"; // Цвет подсветки сообщений в HEX формате. По умолчанию: #FF6600 - фирменный рыжий Абучана.
